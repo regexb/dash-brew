@@ -1,0 +1,13 @@
+{
+  "nic": "en0",
+  "buttons": [
+    {
+      "name": "Out of Joe",
+      "mac": "XX:XX:XX:XX:XX:XX",
+      "url": "http://echo.postman.com/post",
+      "data": {
+        "key": "value"
+      }
+    }
+  ]
+}
